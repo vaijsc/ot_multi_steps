@@ -1,0 +1,11 @@
+pillow
+matplotlib
+tensorboard
+tensorboardX
+lmdb
+matplotlib
+scipy
+ninja
+tqdm
+ipdb
+scikit-image
